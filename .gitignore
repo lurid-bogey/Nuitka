@@ -24,8 +24,6 @@ tests/reflected/nuitka.py
 tests/reflected/nuitka-runner.py
 tests/basics/BigConstants.py
 tests/generated/*.py
-*.dist
-*.build
 *.dblite
 *.pdb
 releases/
